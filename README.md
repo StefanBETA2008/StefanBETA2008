@@ -1,7 +1,7 @@
 Zdravo Svima, Ja Sam Stefan{BETA}™(S.M) 👋🏻🥰:
 ![Anurag's GitHub Status](https://github-readme-stats.vercel.app/api?username=stefanbeta2008&show_icons=true&theme=radical)
-<img height="40" src="https://raw.githubusercontent.com/StefanBETA2008/Friday-Night-Funkin-VS-Dave-And-Bambi-Oreo-Edition/main/assets/Haxe_logo.svg.png">
-<img height="40" src="https://raw.githubusercontent.com/StefanBETA2008/Friday-Night-Funkin-VS-Dave-And-Bambi-Oreo-Edition/main/assets/4309553.png">
+<img height="40" src="https://raw.githubusercontent.com/StefanBETA2008/SB-Engine/main/art/3826779.png">
+<img height="40" src="https://raw.githubusercontent.com/StefanBETA2008/SB-Engine/main/art/4309553.png">
 <img height="40" src="https://raw.githubusercontent.com/StefanBETA2008/SB-Engine/main/art/iconOG.png">
 
  • 📙 Učim Haxe I Haxelib Za Moj SB Engine.
