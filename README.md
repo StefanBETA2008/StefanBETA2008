@@ -1,4 +1,4 @@
-Zdravo Svima, Ja Sam Stefan{BETA}™(S.M)
+Zdravo Svima, Ja Sam Stefan[BETA]™
 ![Anurag's GitHub Status](https://github-readme-stats.vercel.app/api?username=stefanbeta2008&show_icons=true&theme=radical)
 
  • 📙 Učim Haxe I Haxelib Za Moj SB Engine.
