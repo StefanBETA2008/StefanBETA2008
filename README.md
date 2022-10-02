@@ -3,7 +3,7 @@ Zdravo Svima, Ja Sam Stefan{BETA}™(S.M)
 
  • 📙 Učim Haxe I Haxelib Za Moj SB Engine.
 
- • 👋🏻 Želiš Da Budemo Prijatelji? Dodajte Me Na Discordu: Stefan{BETA}™(S.M)#3681
+ • 👋🏻 Želiš Da Budemo Prijatelji? Dodajte Me Na Discordu: Stefan[BETA]™#3681
 
  • 🇺🇲 Specijalno Podržavam Srbiju I Engleski Jezik
 
@@ -12,3 +12,7 @@ Zdravo Svima, Ja Sam Stefan{BETA}™(S.M)
  • 📣 Ja Sam Friday Night Funkin Android Porter - ( Ne Optimizator )
  
  • 🔶 Želiš Da Gledaš Moja Videa Na YouTube? [Preplati Se](https://youtube.com/c/StefanBETATM) Na Moj Kanal Ako Želiš
+
+ • 🖼️ Logo Za SB Engine:
+ 
+ ![](https://raw.githubusercontent.com/StefanBETA2008/SB-Engine-Slike/main/Slike/SB%20Engine%20Slike/Picsart_22-09-03_14-11-52-190.png)
